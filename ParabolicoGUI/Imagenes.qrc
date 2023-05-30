@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imagen">
+        <file>imagenes/espacio_mejor.jpg</file>
+    </qresource>
+</RCC>
